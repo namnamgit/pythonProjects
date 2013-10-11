@@ -1,3 +1,5 @@
+# idk
+
 while True:
 	number_trick = int(input('Think of a number: '))
 	number, number_trick = number_trick, number_trick * 2

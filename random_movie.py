@@ -4,7 +4,7 @@ import random
 
 while True:
 	a = int(input("Dir: "))
-	b = int(input("Second: "))
+	b = int(input("Range: "))
 
 	print ("Next movie: ", end='')
 	print (random.randint(a, b))
