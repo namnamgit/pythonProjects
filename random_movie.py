@@ -1,9 +1,9 @@
-# rodrigo, apr0713
-# escolher filme
+# This code is used to pick a random movie from 3 different dirs
+
 import random
 
 while True:
-	a = int(input("First: "))
+	a = int(input("Dir: "))
 	b = int(input("Second: "))
 
 	print ("Next movie: ", end='')
